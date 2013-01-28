@@ -1,0 +1,930 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Mesut Can Gürle
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="1" columns="3">
+<features tabularvalignment="middle">
+<column alignment="left" valignment="top" width="9cm">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="4.87cm">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+E-mail : mesutcang@gmail.com
+\end_layout
+
+\begin_layout Plain Layout
+Mobile : +90 555 408 37 71 
+\end_layout
+
+\begin_layout Plain Layout
+Phone : +90 232 374 10 64 
+\end_layout
+
+\begin_layout Plain Layout
+Address: Kızılay Mahallesi 477/2 sokak No:40 D.3 Bornova/İZMİR, Turkey
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout LyX-Code
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/mesut/yedekler/yedekler/laptoptan/belgeler/2011-08-16/vesikalik (copy).jpg
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Education 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="3" columns="2">
+<features tabularvalignment="middle">
+<column alignment="left" valignment="top" width="2.5cm">
+<column alignment="left" valignment="top" width="11.37cm">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2011 - 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Dokuz Eylül University
+\end_layout
+
+\begin_layout Plain Layout
+Computer Engineering - Master' Thesis cont.
+\end_layout
+
+\begin_layout Plain Layout
+(Education Language : English)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2005 - 2009
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Çanakkale 18Mart University Computer Engineering Department
+\end_layout
+
+\begin_layout Plain Layout
+Diploma degree 3.53/4
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2001 - 2005
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+İzmir Atatürk High School
+\end_layout
+
+\begin_layout Plain Layout
+Diploma degree : 4.77 /5 
+\end_layout
+
+\begin_layout Plain Layout
+Anatolian High School
+\end_layout
+
+\begin_layout Plain Layout
+1 year English Education
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Professional Experience
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="8" columns="2">
+<features tabularvalignment="middle">
+<column alignment="left" valignment="top" width="4cm">
+<column alignment="left" valignment="top" width="9.87cm">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Oct.2012 -
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Istanbul Stock Exchange
+\end_layout
+
+\begin_layout Plain Layout
+Member Automation
+\end_layout
+
+\begin_layout Plain Layout
+Oracle Forms and Reports - PL/SQL
+\end_layout
+
+\begin_layout Plain Layout
+Accounting information for Member organizations and
+\end_layout
+
+\begin_layout Plain Layout
+Transmitting bidding information.
+ 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Apr.
+ 2012 - Sep.2012
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Dokuz Eylul University IT Department
+\end_layout
+
+\begin_layout Plain Layout
+Oracle Forms and Reports - PL/SQL
+\end_layout
+
+\begin_layout Plain Layout
+Enterprise applications
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+June 2010 - March 2012
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Intron IT Solutions
+\end_layout
+
+\begin_layout Plain Layout
+- FreeBSD based Firewall 
+\end_layout
+
+\begin_layout Plain Layout
+FreeBSD based firewall (packet filter), content filter (squid + squidGuard),
+ bandwithd, vnstat, havp entegration and web based management interface
+ using xml, php, javascript.
+\end_layout
+
+\begin_layout Plain Layout
+- Centralized Logging system based on syslog-ng and web interface for digital
+ signing and managing logs.
+\end_layout
+
+\begin_layout Plain Layout
+- Setup, configuration and support for developed firewall.
+\end_layout
+
+\begin_layout Plain Layout
+- Installation and configuration of DHCP, DNS, HTTP, MYSQL, MAIL, FTP, LDAP
+ servers on virtual environment.
+\end_layout
+
+\begin_layout Plain Layout
+- Installation of different firewall products.
+\end_layout
+
+\begin_layout Plain Layout
+- Seminar Talker on application development with GWT in inet-tr 2010.
+\end_layout
+
+\begin_layout Plain Layout
+- Some web services entegrations (SMS, Mernis etc.) of developed firewall.
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Oct 2009 - May 2010
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Military duty
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+July 2009-Oct.
+ 2009
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ZK IT Solutions-Intron IT solutions
+\end_layout
+
+\begin_layout Plain Layout
+- Usak University reporting application based on php, openLDAP, CSS, Javascript,
+ Web2.0, Jquery
+\end_layout
+
+\begin_layout Plain Layout
+-Reporting application based on java, GWT, OpenLDAP, Hibernate, Jasper Reports.
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Sep 2007-June 2009
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Çanakkale 18Mart University IT Department 
+\end_layout
+
+\begin_layout Plain Layout
+Part time job.(Linux System Management, Server installation and configuration).
+ IPv6 configurations.
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+April 2008-Sep 2008
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Konat LTD
+\end_layout
+
+\begin_layout Plain Layout
+Web based application development for lawyers and banks based on PHP, AJAX,
+ JAVASCRIPT, CSS, MYSQL
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Jan 2009- April 2009
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Lutarsoft LTD
+\end_layout
+
+\begin_layout Plain Layout
+http://www.anzacdayreservation.com 
+\end_layout
+
+\begin_layout Plain Layout
+Dynamic site modules and reservation module(PHP, AJAX, JQUERY, CSS, MYSQL,
+ JAVASCRIPT)
+\end_layout
+
+\begin_layout Plain Layout
+http://www.lutarsoft.com 
+\end_layout
+
+\begin_layout Plain Layout
+Dynamic site modules (PHP, AJAX, CSS, JAVASCRIPT)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Computer Knowledge
+\end_layout
+
+\begin_layout Subsection
+Programming Languages
+\end_layout
+
+\begin_layout Standard
+C(good), C++(good), C#(good), Java(very good), Servlet(very good), JSP(very
+ good), Struts (good), JSF(very good), Seam(starter), GWT(good), Hibernate(moder
+ate), Matlab(moderate), Python(good), PHP(very good), Assembly(moderate),
+ Javascript(very good), CSS(good), PL/SQL (very good)
+\end_layout
+
+\begin_layout Subsection
+Databases
+\end_layout
+
+\begin_layout Standard
+MySQL(very good), PostgreSQL (good), DB2 (very good), Oracle (very good)
+ 
+\end_layout
+
+\begin_layout Subsection
+Operating Systems
+\end_layout
+
+\begin_layout Standard
+Linux (specially Debian, Ubuntu , Pardus), *BSD (specially FreeBSD )
+\end_layout
+
+\begin_layout Section
+Other Experiences
+\end_layout
+
+\begin_layout Subsection
+Interns
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="3" columns="2">
+<features tabularvalignment="middle">
+<column alignment="left" valignment="top" width="4cm">
+<column alignment="left" valignment="top" width="9.87cm">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+July 2008
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Egebimtes
+\end_layout
+
+\begin_layout Plain Layout
+1 month intern (SharePoint, C#, .NET)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+July 2007
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Çanakkale 18Mart University IT Department
+\end_layout
+
+\begin_layout Plain Layout
+1.5 month intern.
+ Linux bind, apache server installation, network configuration.
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+July 2006
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Ege University Network Management Group
+\end_layout
+
+\begin_layout Plain Layout
+1.5 month intern.
+ Linux installation, network education, DHCP log analyzer written in Python.
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Translations
+\end_layout
+
+\begin_layout Standard
+- Nessus installation and configuration guide : 
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+target "http://csirt.ulakbim.gov.tr/dokumanlar/nessus.pdf"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+- Debian New Maintainers' Guide :
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+target "http://docs.comu.edu.tr/howto/maint-guide-tr.html"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+-Linux IPv6 Howto :
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+target "http://docs.comu.edu.tr/howto/ipv6-howto.html"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Academic Paper
+\end_layout
+
+\begin_layout Standard
+- An Ultra-light PRNG for RFID tags 
+\end_layout
+
+\begin_layout Standard
+Mehmet Hilal ÖZCANHAN, Gökhan DALKILIÇ, and Mesut Can Gürle
+\end_layout
+
+\begin_layout Subsection
+Honors and Awards
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="3" columns="2">
+<features tabularvalignment="middle">
+<column alignment="left" valignment="top" width="7cm">
+<column alignment="left" valignment="top" width="8cm">
+<row>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Google Summer of Code 2012
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Android-based application for devices autoconfiguration, PacketFence 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+IBM Programming Challange 2009
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Ranked 8th among 155 teams from Turkish and KKTC 
+\end_layout
+
+\begin_layout Plain Layout
+J2EE, JAVA EE5,UML, XML, AJAX, Web 2.0, OpenLDAP, Jasper Reports,SOA, Web
+ services, JSF, JSP, SERVLET
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Çanakkale 18Mart University 2009
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Ranked 1st in department and 2nd in faculty
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Additional Information
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="6" columns="2">
+<features tabularvalignment="middle">
+<column alignment="left" valignment="top" width="0">
+<column alignment="left" valignment="top" width="0">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Interested Subjects
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Application development, System management
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Languages
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Turkish(native), English (good)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Travel Status
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Suitable
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Memberships/Affiliates
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Linux Users Association of Turkey 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+name "My Github Account"
+target "https://github.com/mesutcang"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+name "My Linkedin Account"
+target "http://www.linkedin.com/profile/view?id=58661777&trk=hb_tab_pro_top"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
