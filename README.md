@@ -1,1 +1,1 @@
-This folder left for personal files.
+This folder is reserved for personal files.
