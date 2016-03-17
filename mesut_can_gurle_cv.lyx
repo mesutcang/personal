@@ -1,5 +1,5 @@
-#LyX 2.0 created this file. For more info see http://www.lyx.org/
-\lyxformat 413
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
 \begin_document
 \begin_header
 \textclass article
@@ -12,13 +12,13 @@
 \font_roman default
 \font_sans default
 \font_typewriter default
+\font_math auto
 \font_default_family default
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
 \font_sf_scale 100
 \font_tt_scale 100
-
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -28,15 +28,24 @@
 \use_hyperref false
 \papersize default
 \use_geometry false
-\use_amsmath 1
-\use_esint 1
-\use_mhchem 1
-\use_mathdots 1
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
 \cite_engine basic
+\cite_engine_type default
+\biblio_style plain
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
 \suppress_date true
+\justification true
 \use_refstyle 1
 \index Index
 \shortcut idx
@@ -66,32 +75,25 @@ Mesut Can Gürle
 \begin_layout Standard
 \begin_inset Tabular
 <lyxtabular version="3" rows="1" columns="3">
-<features tabularvalignment="middle">
+<features rotate="0" tabularvalignment="middle">
 <column alignment="left" valignment="top" width="9cm">
-<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top">
 <column alignment="center" valignment="top" width="4.87cm">
 <row>
 <cell alignment="left" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\end_layout
-
-\begin_layout Plain Layout
 E-mail : mesutcang@gmail.com
 \end_layout
 
 \begin_layout Plain Layout
-Mobile : +90 555 408 37 71 
+Mobile : +90 532 064 27 74 
 \end_layout
 
 \begin_layout Plain Layout
-Phone : +90 232 374 10 64 
-\end_layout
-
-\begin_layout Plain Layout
-Address: Kızılay Mahallesi 477/2 sokak No:40 D.3 Bornova/İZMİR, Turkey
+Address: Darüşşafaka Mahallesi Ilıca Sokak Arıkent Sitesi A1 Blok D.21 Sarıyer
+ / İstanbul, Turkey
 \end_layout
 
 \end_inset
@@ -114,7 +116,10 @@ Address: Kızılay Mahallesi 477/2 sokak No:40 D.3 Bornova/İZMİR, Turkey
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename /home/mesut/yedekler/yedekler/laptoptan/belgeler/2011-08-16/vesikalik (copy).jpg
+	filename /home/mesutcang/Documents/photo2.jpg
+	width 5cm
+	height 10cm
+	keepAspectRatio
 
 \end_inset
 
@@ -137,16 +142,40 @@ Education
 
 \begin_layout Standard
 \begin_inset Tabular
-<lyxtabular version="3" rows="3" columns="2">
-<features tabularvalignment="middle">
+<lyxtabular version="3" rows="4" columns="2">
+<features rotate="0" tabularvalignment="middle">
 <column alignment="left" valignment="top" width="2.5cm">
 <column alignment="left" valignment="top" width="11.37cm">
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2015 -
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Marmara University
+\end_layout
+
+\begin_layout Plain Layout
+Computer Engineering - PhD
+\end_layout
+
+\end_inset
+</cell>
+</row>
 <row>
 <cell alignment="left" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-2011 - 
+2011 - 2015
 \end_layout
 
 \end_inset
@@ -159,7 +188,7 @@ Dokuz Eylül University
 \end_layout
 
 \begin_layout Plain Layout
-Computer Engineering - Master' Thesis cont.
+Computer Engineering - MSc, 3.71 / 4
 \end_layout
 
 \begin_layout Plain Layout
@@ -183,11 +212,15 @@ Computer Engineering - Master' Thesis cont.
 \begin_inset Text
 
 \begin_layout Plain Layout
-Çanakkale 18Mart University Computer Engineering Department
+Çanakkale 18Mart University 
 \end_layout
 
 \begin_layout Plain Layout
-Diploma degree 3.53/4
+Computer Engineering Department
+\end_layout
+
+\begin_layout Plain Layout
+Ranked 1st in department, 3.53/4
 \end_layout
 
 \end_inset
@@ -211,7 +244,7 @@ Diploma degree 3.53/4
 \end_layout
 
 \begin_layout Plain Layout
-Diploma degree : 4.77 /5 
+4.77 / 5 
 \end_layout
 
 \begin_layout Plain Layout
@@ -232,284 +265,262 @@ Anatolian High School
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
 Professional Experience
 \end_layout
 
-\begin_layout Standard
-\begin_inset Tabular
-<lyxtabular version="3" rows="8" columns="2">
-<features tabularvalignment="middle">
-<column alignment="left" valignment="top" width="4cm">
-<column alignment="left" valignment="top" width="9.87cm">
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
+\begin_layout Itemize
 
-\begin_layout Plain Layout
-Oct.2012 -
+\series bold
+Nasdaq
 \end_layout
 
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
+\begin_deeper
+\begin_layout Standard
 
-\begin_layout Plain Layout
+\shape italic
+March 2014 -
+\end_layout
+
+\begin_layout Standard
+- Smarts Integrity
+\end_layout
+
+\begin_layout Standard
+- Realtime Market Surveillance Application
+\end_layout
+
+\begin_layout Standard
+- Real time Alerts and Reports
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
 Istanbul Stock Exchange
 \end_layout
 
-\begin_layout Plain Layout
-Member Automation
+\begin_deeper
+\begin_layout Standard
+
+\shape italic
+Oct.2012 -
 \end_layout
 
-\begin_layout Plain Layout
-Oracle Forms and Reports - PL/SQL
+\begin_layout Standard
+- Market Surveillance Application
 \end_layout
 
-\begin_layout Plain Layout
-Accounting information for Member organizations and
+\begin_layout Standard
+- Real Time Monitoring Application
 \end_layout
 
-\begin_layout Plain Layout
-Transmitting bidding information.
+\begin_layout Standard
+- KKB web service integration
+\end_layout
+
+\begin_layout Standard
+- Member Automation
+\end_layout
+
+\begin_layout Standard
+- Devops Applications
+\end_layout
+
+\begin_layout Standard
+- Real time Online Trading Application
+\end_layout
+
+\begin_layout Standard
+- Accounting information for Member organizations and
+\end_layout
+
+\begin_layout Standard
+- Transmitting bidding information.
  
 \end_layout
 
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
+\end_deeper
+\begin_layout Itemize
 
-\begin_layout Plain Layout
+\series bold
+Dokuz Eylul University IT Department
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+
+\shape italic
 Apr.
  2012 - Sep.2012
 \end_layout
 
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Dokuz Eylul University IT Department
-\end_layout
-
-\begin_layout Plain Layout
-Oracle Forms and Reports - PL/SQL
-\end_layout
-
-\begin_layout Plain Layout
+\begin_layout Standard
 Enterprise applications
 \end_layout
 
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
+\end_deeper
+\begin_layout Itemize
 
-\begin_layout Plain Layout
-June 2010 - March 2012
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 Intron IT Solutions
 \end_layout
 
-\begin_layout Plain Layout
+\begin_deeper
+\begin_layout Standard
+
+\shape italic
+July 2009 - March 2012
+\end_layout
+
+\begin_layout Standard
 - FreeBSD based Firewall 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 FreeBSD based firewall (packet filter), content filter (squid + squidGuard),
  bandwithd, vnstat, havp entegration and web based management interface
  using xml, php, javascript.
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 - Centralized Logging system based on syslog-ng and web interface for digital
  signing and managing logs.
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 - Setup, configuration and support for developed firewall.
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 - Installation and configuration of DHCP, DNS, HTTP, MYSQL, MAIL, FTP, LDAP
  servers on virtual environment.
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 - Installation of different firewall products.
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 - Seminar Talker on application development with GWT in inet-tr 2010.
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 - Some web services entegrations (SMS, Mernis etc.) of developed firewall.
 \end_layout
 
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Oct 2009 - May 2010
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Military duty
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-July 2009-Oct.
- 2009
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ZK IT Solutions-Intron IT solutions
-\end_layout
-
-\begin_layout Plain Layout
+\begin_layout Standard
 - Usak University reporting application based on php, openLDAP, CSS, Javascript,
  Web2.0, Jquery
 \end_layout
 
-\begin_layout Plain Layout
--Reporting application based on java, GWT, OpenLDAP, Hibernate, Jasper Reports.
+\begin_layout Standard
+- Reporting application based on java, GWT, OpenLDAP, Hibernate, Jasper
+ Reports.
 \end_layout
 
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
+\end_deeper
+\begin_layout Itemize
 
-\begin_layout Plain Layout
-Sep 2007-June 2009
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 Çanakkale 18Mart University IT Department 
 \end_layout
 
-\begin_layout Plain Layout
-Part time job.(Linux System Management, Server installation and configuration).
- IPv6 configurations.
+\begin_deeper
+\begin_layout Standard
+
+\shape italic
+Sep 2007-June 2009
 \end_layout
 
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-April 2008-Sep 2008
+\begin_layout Standard
+Part time job.
 \end_layout
 
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Konat LTD
+\begin_layout Standard
+(Linux System Management, Server installation and configuration).
+ 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
+IPv6 configurations.
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Projects
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+IAkademi
+\series default
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+PHP, Javascript, CSS, MySQL trainer
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Konat
+\series default
+ 
+\series bold
+LTD
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
 Web based application development for lawyers and banks based on PHP, AJAX,
  JAVASCRIPT, CSS, MYSQL
 \end_layout
 
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
+\end_deeper
+\begin_layout Itemize
 
-\begin_layout Plain Layout
-Jan 2009- April 2009
+\series bold
+Lutarsoft
+\series default
+ 
+\series bold
+LTD
 \end_layout
 
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Lutarsoft LTD
-\end_layout
-
-\begin_layout Plain Layout
+\begin_deeper
+\begin_layout Standard
 http://www.anzacdayreservation.com 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 Dynamic site modules and reservation module(PHP, AJAX, JQUERY, CSS, MYSQL,
  JAVASCRIPT)
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 http://www.lutarsoft.com 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 Dynamic site modules (PHP, AJAX, CSS, JAVASCRIPT)
 \end_layout
 
-\end_inset
-</cell>
-</row>
-</lyxtabular>
-
-\end_inset
-
-
-\end_layout
-
+\end_deeper
 \begin_layout Section
-Computer Knowledge
+Skills
 \end_layout
 
 \begin_layout Subsection
@@ -517,10 +528,8 @@ Programming Languages
 \end_layout
 
 \begin_layout Standard
-C(good), C++(good), C#(good), Java(very good), Servlet(very good), JSP(very
- good), Struts (good), JSF(very good), Seam(starter), GWT(good), Hibernate(moder
-ate), Matlab(moderate), Python(good), PHP(very good), Assembly(moderate),
- Javascript(very good), CSS(good), PL/SQL (very good)
+Java, REST, API, Javascript, Clojure, NodeJS, Golang, Servlet, JSP, Struts,
+ JSF, GWT, Hibernate, Python, PHP, CSS, PL/SQL, HTML5, Spark
 \end_layout
 
 \begin_layout Subsection
@@ -528,8 +537,7 @@ Databases
 \end_layout
 
 \begin_layout Standard
-MySQL(very good), PostgreSQL (good), DB2 (very good), Oracle (very good)
- 
+MySQL, PostgreSQL, DB2, Oracle, NoSQL, MongoDB, Redis, Big Data
 \end_layout
 
 \begin_layout Subsection
@@ -537,7 +545,8 @@ Operating Systems
 \end_layout
 
 \begin_layout Standard
-Linux (specially Debian, Ubuntu , Pardus), *BSD (specially FreeBSD )
+Linux (specially Debian, Ubuntu, Centos), *BSD (specially FreeBSD ), OS
+ X
 \end_layout
 
 \begin_layout Section
@@ -545,13 +554,13 @@ Other Experiences
 \end_layout
 
 \begin_layout Subsection
-Interns
+Internships
 \end_layout
 
 \begin_layout Standard
 \begin_inset Tabular
 <lyxtabular version="3" rows="3" columns="2">
-<features tabularvalignment="middle">
+<features rotate="0" tabularvalignment="middle">
 <column alignment="left" valignment="top" width="4cm">
 <column alignment="left" valignment="top" width="9.87cm">
 <row>
@@ -700,7 +709,7 @@ Honors and Awards
 \begin_layout Standard
 \begin_inset Tabular
 <lyxtabular version="3" rows="3" columns="2">
-<features tabularvalignment="middle">
+<features rotate="0" tabularvalignment="middle">
 <column alignment="left" valignment="top" width="7cm">
 <column alignment="left" valignment="top" width="8cm">
 <row>
@@ -782,9 +791,9 @@ Additional Information
 \begin_layout Standard
 \begin_inset Tabular
 <lyxtabular version="3" rows="6" columns="2">
-<features tabularvalignment="middle">
-<column alignment="left" valignment="top" width="0">
-<column alignment="left" valignment="top" width="0">
+<features rotate="0" tabularvalignment="middle">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top">
 <row>
 <cell alignment="left" valignment="top" usebox="none">
 \begin_inset Text
@@ -799,7 +808,7 @@ Interested Subjects
 \begin_inset Text
 
 \begin_layout Plain Layout
-Application development, System management
+Application development, Devops
 \end_layout
 
 \end_inset
@@ -819,7 +828,7 @@ Languages
 \begin_inset Text
 
 \begin_layout Plain Layout
-Turkish(native), English (good)
+Turkish(native), English ( very good )
 \end_layout
 
 \end_inset
