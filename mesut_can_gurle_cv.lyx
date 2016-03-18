@@ -107,7 +107,7 @@ Address: Darüşşafaka Mahallesi Ilıca Sokak Arıkent Sitesi A1 Blok D.21 Sar�
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout LyX-Code
@@ -529,8 +529,8 @@ Technologies
 
 \begin_layout Standard
 Java, REST, API, Javascript, Clojure, NodeJS, Golang, Servlet, JSP, Struts,
- JSF, GWT, Hibernate, Python, PHP, CSS, PL/SQL, HTML5, Spark, Storm, Android
- 
+ JSF, GWT, Hibernate, Python, PHP, CSS, PL/SQL, HTML5, Spark, Storm, Android,
+ Docker, Puppet
 \end_layout
 
 \begin_layout Subsection
