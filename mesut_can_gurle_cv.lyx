@@ -1,7 +1,9 @@
-#LyX 2.1 created this file. For more info see http://www.lyx.org/
-\lyxformat 474
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
 \begin_document
 \begin_header
+\save_transient_properties true
+\origin unavailable
 \textclass article
 \use_default_options true
 \maintain_unincluded_children false
@@ -9,16 +11,16 @@
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman default
-\font_sans default
-\font_typewriter default
-\font_math auto
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
 \font_default_family default
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
-\font_sf_scale 100
-\font_tt_scale 100
+\font_sf_scale 100 100
+\font_tt_scale 100 100
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -75,7 +77,7 @@ Mesut Can Gürle
 \begin_layout Standard
 \begin_inset Tabular
 <lyxtabular version="3" rows="1" columns="3">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="9cm">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top" width="4.87cm">
@@ -116,7 +118,8 @@ Address: Darüşşafaka Mahallesi Ilıca Sokak Arıkent Sitesi A1 Blok D.21 Sar�
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename /home/mesutcang/Documents/photo2.jpg
+	filename /Users/mesutcang/Downloads/photo.jpg
+	lyxscale 30
 	width 5cm
 	height 10cm
 	keepAspectRatio
@@ -143,7 +146,7 @@ Education
 \begin_layout Standard
 \begin_inset Tabular
 <lyxtabular version="3" rows="4" columns="2">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="2.5cm">
 <column alignment="left" valignment="top" width="11.37cm">
 <row>
@@ -279,6 +282,50 @@ Professional Experience
 \begin_layout Itemize
 
 \series bold
+Consultant
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+August 2016 -
+\end_layout
+
+\begin_layout Standard
+- n11.com Turkey's biggest marketplace
+\end_layout
+
+\begin_layout Standard
+New loyalty project using Spring Cloud.
+\end_layout
+
+\begin_layout Standard
+Coupon application.
+\end_layout
+
+\begin_layout Standard
+Monolith to microservice migration project.
+\end_layout
+
+\begin_layout Standard
+Wholesale microservice project.
+\end_layout
+
+\begin_layout Standard
+Stock prediction using Spark and Cassandra
+\end_layout
+
+\begin_layout Standard
+- Segmentify.com (Recommendation engine) 
+\end_layout
+
+\begin_layout Standard
+Big data setup and integration using Kafka and ELK stack.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
 Nasdaq
 \end_layout
 
@@ -286,7 +333,7 @@ Nasdaq
 \begin_layout Standard
 
 \shape italic
-March 2014 -
+March 2014 - 2016
 \end_layout
 
 \begin_layout Standard
@@ -310,13 +357,19 @@ March 2014 -
 
 \series bold
 Istanbul Stock Exchange
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
 \begin_layout Standard
 
 \shape italic
-Oct.2012 -
+Oct.2012 - 2016
 \end_layout
 
 \begin_layout Standard
@@ -357,6 +410,12 @@ Oct.2012 -
 
 \series bold
 Dokuz Eylul University IT Department
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -376,6 +435,12 @@ Enterprise applications
 
 \series bold
 Intron IT Solutions
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -436,6 +501,12 @@ FreeBSD based firewall (packet filter), content filter (squid + squidGuard),
 
 \series bold
 Çanakkale 18Mart University IT Department 
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -469,6 +540,10 @@ Projects
 IAkademi
 \series default
  
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -485,6 +560,12 @@ Konat
  
 \series bold
 LTD
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -502,6 +583,12 @@ Lutarsoft
  
 \series bold
 LTD
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -532,9 +619,9 @@ Technologies
 \end_layout
 
 \begin_layout Standard
-Java, REST, API, Javascript, Clojure, NodeJS, Golang, Servlet, JSP, Struts,
- JSF, GWT, Hibernate, Python, PHP, CSS, PL/SQL, HTML5, Spark, Storm, Android,
- Docker, Puppet
+Java, REST, Spring, Spring Boot, Spring Cloud, Spring MVC, API, Javascript,
+ Clojure, NodeJS, Golang, Servlet, JSP, Struts, JSF, GWT, Hibernate, Python,
+ PHP, CSS, PL/SQL, HTML5, Spark, Storm, Android, Docker, Puppet, Jenkins
 \end_layout
 
 \begin_layout Subsection
@@ -542,7 +629,8 @@ Databases
 \end_layout
 
 \begin_layout Standard
-MySQL, PostgreSQL, DB2, Oracle, NoSQL, MongoDB, Redis, Big Data
+MySQL, PostgreSQL, DB2, Oracle, NoSQL, MongoDB, Redis, Big Data, Cassandra,
+ Spark, Couchbase
 \end_layout
 
 \begin_layout Subsection
@@ -565,7 +653,7 @@ Internships
 \begin_layout Standard
 \begin_inset Tabular
 <lyxtabular version="3" rows="3" columns="2">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="4cm">
 <column alignment="left" valignment="top" width="9.87cm">
 <row>
@@ -654,12 +742,31 @@ Translations
 \end_layout
 
 \begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="6" columns="1">
+<features tabularvalignment="middle">
+<column alignment="left" valignment="top">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
 - Nessus installation and configuration guide : 
 \end_layout
 
-\begin_layout Standard
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
 \begin_inset CommandInset href
 LatexCommand href
+name "http://csirt.ulakbim.gov.tr/dokumanlar/nessus.pdf"
 target "http://csirt.ulakbim.gov.tr/dokumanlar/nessus.pdf"
 
 \end_inset
@@ -667,13 +774,30 @@ target "http://csirt.ulakbim.gov.tr/dokumanlar/nessus.pdf"
 
 \end_layout
 
-\begin_layout Standard
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
 - Debian New Maintainers' Guide :
 \end_layout
 
-\begin_layout Standard
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
 \begin_inset CommandInset href
 LatexCommand href
+name "http://docs.comu.edu.tr/howto/maint-guide-tr.html"
 target "http://docs.comu.edu.tr/howto/maint-guide-tr.html"
 
 \end_inset
@@ -681,14 +805,41 @@ target "http://docs.comu.edu.tr/howto/maint-guide-tr.html"
 
 \end_layout
 
-\begin_layout Standard
--Linux IPv6 Howto :
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+- Linux IPv6 Howto :
 \end_layout
 
-\begin_layout Standard
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
 \begin_inset CommandInset href
 LatexCommand href
+name "http://docs.comu.edu.tr/howto/ipv6-howto.html"
 target "http://docs.comu.edu.tr/howto/ipv6-howto.html"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
 
 \end_inset
 
@@ -700,11 +851,63 @@ Academic Paper
 \end_layout
 
 \begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="4" columns="1">
+<features tabularvalignment="middle">
+<column alignment="left" valignment="top">
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
 - An Ultra-light PRNG for RFID tags 
 \end_layout
 
-\begin_layout Standard
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
 Mehmet Hilal ÖZCANHAN, Gökhan DALKILIÇ, and Mesut Can Gürle
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+- Collision Resolution MAC Algorithm for Vehicular Ad Hoc Networks
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Muhammed Nur Avcil, Mesut Can Gürle, Mujdat Soyturk 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
@@ -713,12 +916,33 @@ Honors and Awards
 
 \begin_layout Standard
 \begin_inset Tabular
-<lyxtabular version="3" rows="3" columns="2">
-<features rotate="0" tabularvalignment="middle">
+<lyxtabular version="3" rows="4" columns="2">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="7cm">
 <column alignment="left" valignment="top" width="8cm">
 <row>
-<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Google Summer of Code 2016
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Wordpress plugin using WebRTC.
+ wpcall.org, Support for Debian community.
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -727,7 +951,7 @@ Google Summer of Code 2012
 
 \end_inset
 </cell>
-<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -795,8 +1019,8 @@ Additional Information
 
 \begin_layout Standard
 \begin_inset Tabular
-<lyxtabular version="3" rows="7" columns="2">
-<features rotate="0" tabularvalignment="middle">
+<lyxtabular version="3" rows="9" columns="2">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top">
 <column alignment="left" valignment="top">
 <row>
@@ -902,7 +1126,47 @@ Memberships/Affiliates
 \begin_inset Text
 
 \begin_layout Plain Layout
-Linux Users Association of Turkey 
+Linux Users Association of Turkey  
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+One of founders in IstanbulCoders.org
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Developer community
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+One of founders in devopsturkey.org
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
 \end_layout
 
 \end_inset
@@ -915,7 +1179,7 @@ Linux Users Association of Turkey
 \begin_layout Plain Layout
 \begin_inset CommandInset href
 LatexCommand href
-name "My Github Account"
+name "https://github.com/mesutcang"
 target "https://github.com/mesutcang"
 
 \end_inset
@@ -942,8 +1206,8 @@ target "https://github.com/mesutcang"
 \begin_layout Plain Layout
 \begin_inset CommandInset href
 LatexCommand href
-name "My Linkedin Account"
-target "http://www.linkedin.com/profile/view?id=58661777&trk=hb_tab_pro_top"
+name "https://www.linkedin.com/in/mesutcang/"
+target "https://www.linkedin.com/in/mesutcang/"
 
 \end_inset
 
