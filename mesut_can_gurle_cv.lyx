@@ -94,8 +94,7 @@ Mobile : +90 532 064 27 74
 \end_layout
 
 \begin_layout Plain Layout
-Address: Darüşşafaka Mahallesi Ilıca Sokak Arıkent Sitesi A1 Blok D.21 Sarıyer
- / İstanbul, Turkey
+Address: Yasemin sokak No: 1 D1 Kağıthane / İstanbul, Turkey
 \end_layout
 
 \end_inset
@@ -118,11 +117,9 @@ Address: Darüşşafaka Mahallesi Ilıca Sokak Arıkent Sitesi A1 Blok D.21 Sar�
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename /Users/mesutcang/Downloads/photo.jpg
+	filename /Users/mesutcang/Documents/profile.jpg
 	lyxscale 30
-	width 5cm
-	height 10cm
-	keepAspectRatio
+	scale 30
 
 \end_inset
 
@@ -282,12 +279,74 @@ Professional Experience
 \begin_layout Itemize
 
 \series bold
+Chief Technology Officer
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+February 2017 -
+\end_layout
+
+\begin_layout Standard
+- shopinle.com
+\end_layout
+
+\begin_layout Standard
+- Building software architecture from scratch.
+ 
+\end_layout
+
+\begin_layout Standard
+- Building SDLC procedure.
+\end_layout
+
+\begin_layout Standard
+- Implementing devops pipeline.
+ 
+\end_layout
+
+\begin_layout Standard
+- Creating a test / quality procedure.
+\end_layout
+
+\begin_layout Standard
+- Building system infastructure.
+\end_layout
+
+\begin_layout Standard
+- Code review and code analysis.
+\end_layout
+
+\begin_layout Standard
+- Managing agile projects coordinating with different departments.
+\end_layout
+
+\begin_layout Standard
+- Using Spring Boot, Spring Data JPA, Spring Security, Spring Batch,
+\end_layout
+
+\begin_layout Standard
+Linux, Kafka, Elasticsearch, Couchbase, Restful, SPA, AngularJS.
+\end_layout
+
+\begin_layout Standard
+- Integration and development of payment systems and other third parties.
+\end_layout
+
+\begin_layout Standard
+- Managing Software, UI/UX, Test and System management teams
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
 Consultant
 \end_layout
 
 \begin_deeper
 \begin_layout Standard
-August 2016 -
+September 2016 - February 2017
 \end_layout
 
 \begin_layout Standard
@@ -333,7 +392,7 @@ Nasdaq
 \begin_layout Standard
 
 \shape italic
-March 2014 - 2016
+March 2014 - September 2016
 \end_layout
 
 \begin_layout Standard
@@ -346,10 +405,6 @@ March 2014 - 2016
 
 \begin_layout Standard
 - Real time Alerts and Reports
-\end_layout
-
-\begin_layout Standard
-- 1 year at Sydney office, then remote.
 \end_layout
 
 \end_deeper
@@ -369,7 +424,7 @@ Istanbul Stock Exchange
 \begin_layout Standard
 
 \shape italic
-Oct.2012 - 2016
+Oct.2012 - September 2016
 \end_layout
 
 \begin_layout Standard
@@ -403,6 +458,10 @@ Oct.2012 - 2016
 \begin_layout Standard
 - Transmitting bidding information.
  
+\end_layout
+
+\begin_layout Standard
+- Developing microservice applications
 \end_layout
 
 \end_deeper
