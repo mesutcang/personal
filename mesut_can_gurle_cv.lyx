@@ -94,7 +94,9 @@ Mobile : +90 532 064 27 74
 \end_layout
 
 \begin_layout Plain Layout
-Address: Yasemin sokak No: 1 D1 Kağıthane / İstanbul, Turkey
+Address: Örnek mah.
+ Ercüment Batanay sk.
+ no:14 B/58 Dumankaya ikon Ataşehir / İstanbul, Turkey
 \end_layout
 
 \end_inset
@@ -279,12 +281,56 @@ Professional Experience
 \begin_layout Itemize
 
 \series bold
+Software Development Manager
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+April 2018 -
+\end_layout
+
+\begin_layout Standard
+- ebebek.com
+\end_layout
+
+\begin_layout Standard
+- Software team, business analysis and test team, reporting team
+\end_layout
+
+\begin_layout Standard
+- New feature and backlog management
+\end_layout
+
+\begin_layout Standard
+- Development process and code review
+\end_layout
+
+\begin_layout Standard
+- Managing test and quality process
+\end_layout
+
+\begin_layout Standard
+- Mobile app development teams
+\end_layout
+
+\begin_layout Standard
+- Using Spring Boot, Spring Data JPA, Spring Security, Spring Batch,
+\end_layout
+
+\begin_layout Standard
+SAP Hybris, Datahub, AngularJS.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
 Chief Technology Officer
 \end_layout
 
 \begin_deeper
 \begin_layout Standard
-February 2017 -
+February 2017 - April 2018
 \end_layout
 
 \begin_layout Standard
